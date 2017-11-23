@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Thu Nov 23 17:39:37 IST 2017
+2.base=E\:\\Prashant\\Github_Demo\\event-calendar-view\\poweramp_api_example\\poweramp_api_example\\build\\intermediates\\res\\debug\\resources-debug.ap_
+5.file=E\:\\Prashant\\Github_Demo\\event-calendar-view\\poweramp_api_example\\poweramp_api_example\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\aa_widget.xml
+5.set=ANDROID_RESOURCE
+3.base=E\:\\Prashant\\Github_Demo\\event-calendar-view\\poweramp_api_example\\poweramp_api_example\\build\\intermediates\\res\\debug\\resources-debug.ap_
+6.file=E\:\\Prashant\\Github_Demo\\event-calendar-view\\poweramp_api_example\\poweramp_api_example\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+2.set=ANDROID_RESOURCE
+4.base=E\:\\Prashant\\Github_Demo\\event-calendar-view\\poweramp_api_example\\poweramp_api_example\\build\\intermediates\\res\\debug\\resources-debug.ap_
+7.file=E\:\\Prashant\\Github_Demo\\event-calendar-view\\poweramp_api_example\\poweramp_api_example\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\folders.xml
+7.set=ANDROID_RESOURCE
+count=9
+0.file=E\:\\Prashant\\Github_Demo\\event-calendar-view\\poweramp_api_example\\poweramp_api_example\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
+5.base=E\:\\Prashant\\Github_Demo\\event-calendar-view\\poweramp_api_example\\poweramp_api_example\\build\\intermediates\\res\\debug\\resources-debug.ap_
+8.file=E\:\\Prashant\\Github_Demo\\event-calendar-view\\poweramp_api_example\\poweramp_api_example\\build\\intermediates\\res\\debug\\resources-debug.ap_\\AndroidManifest.xml
+4.set=ANDROID_RESOURCE
+6.base=E\:\\Prashant\\Github_Demo\\event-calendar-view\\poweramp_api_example\\poweramp_api_example\\build\\intermediates\\res\\debug\\resources-debug.ap_
+1.file=E\:\\Prashant\\Github_Demo\\event-calendar-view\\poweramp_api_example\\poweramp_api_example\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\files.xml
+1.set=ANDROID_RESOURCE
+7.base=E\:\\Prashant\\Github_Demo\\event-calendar-view\\poweramp_api_example\\poweramp_api_example\\build\\intermediates\\res\\debug\\resources-debug.ap_
+2.file=E\:\\Prashant\\Github_Demo\\event-calendar-view\\poweramp_api_example\\poweramp_api_example\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\eq.xml
+6.set=ANDROID_RESOURCE
+0.base=E\:\\Prashant\\Github_Demo\\event-calendar-view\\poweramp_api_example\\poweramp_api_example\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+8.base=E\:\\Prashant\\Github_Demo\\event-calendar-view\\poweramp_api_example\\poweramp_api_example\\build\\intermediates\\res\\debug\\resources-debug.ap_
+3.file=E\:\\Prashant\\Github_Demo\\event-calendar-view\\poweramp_api_example\\poweramp_api_example\\build\\intermediates\\res\\debug\\resources-debug.ap_\\resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=E\:\\Prashant\\Github_Demo\\event-calendar-view\\poweramp_api_example\\poweramp_api_example\\build\\intermediates\\res\\debug\\resources-debug.ap_
+4.file=E\:\\Prashant\\Github_Demo\\event-calendar-view\\poweramp_api_example\\poweramp_api_example\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\main.xml
+8.set=ANDROID_RESOURCE
+0.set=DEX

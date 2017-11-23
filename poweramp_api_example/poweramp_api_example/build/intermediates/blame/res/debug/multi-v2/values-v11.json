@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Prashant\\Github_Demo\\event-calendar-view\\poweramp_api_example\\poweramp_api_example\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "E:\\Prashant\\Github_Demo\\event-calendar-view\\poweramp_api_example\\poweramp_api_example\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "1",
+                        "startOffsets": "53",
+                        "endLines": "4",
+                        "endColumns": "9",
+                        "endOffsets": "118"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "9",
+                        "endOffsets": "120"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Prashant\\Github_Demo\\event-calendar-view\\poweramp_api_example\\poweramp_api_example\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "E:\\Prashant\\Github_Demo\\event-calendar-view\\poweramp_api_example\\poweramp_api_example\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "5,3,13,14,15,17,18,22,2,23,28,21,24,19,25,26,27,20,16,9,11,10,30,31",
+                        "startColumns": "1,4,1,1,1,1,1,1,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1",
+                        "startOffsets": "172,116,464,499,550,645,690,861,55,896,1093,801,931,727,964,999,1044,762,606,303,404,344,1135,1211",
+                        "endColumns": "123,57,34,50,54,44,36,34,60,34,38,59,32,34,34,44,48,38,38,40,57,59,75,79",
+                        "endOffsets": "294,169,497,548,603,688,725,894,111,929,1130,859,962,760,997,1042,1091,799,643,342,460,402,1209,1289"
+                    },
+                    "to": {
+                        "startLines": "21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "622,749,807,845,899,957,1005,1045,1083,1144,1182,1224,1287,1323,1361,1399,1447,1499,1541,1583,1627,1688,1751,1827",
+                        "endColumns": "126,57,37,53,57,47,39,37,60,37,41,62,35,37,37,47,51,41,41,43,60,62,75,82",
+                        "endOffsets": "744,802,840,894,952,1000,1040,1078,1139,1177,1219,1282,1318,1356,1394,1442,1494,1536,1578,1622,1683,1746,1822,1905"
+                    }
+                },
+                {
+                    "source": "E:\\Prashant\\Github_Demo\\event-calendar-view\\poweramp_api_example\\poweramp_api_example\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "1",
+                        "startOffsets": "53",
+                        "endLines": "4",
+                        "endColumns": "9",
+                        "endOffsets": "119"
+                    },
+                    "to": {
+                        "startLines": "45",
+                        "startColumns": "4",
+                        "startOffsets": "1910",
+                        "endLines": "46",
+                        "endColumns": "9",
+                        "endOffsets": "1976"
+                    }
+                },
+                {
+                    "source": "E:\\Prashant\\Github_Demo\\event-calendar-view\\poweramp_api_example\\poweramp_api_example\\src\\main\\res\\values\\arrays.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endLines": "21",
+                        "endColumns": "16",
+                        "endOffsets": "624"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "20",
+                        "endColumns": "16",
+                        "endOffsets": "617"
+                    }
+                }
+            ]
+        }
+    ]
+}
